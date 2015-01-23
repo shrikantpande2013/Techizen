@@ -1,0 +1,23 @@
+a. Create new Dynamic web project
+  MySoapService
+
+b. add a package in Java Resources
+c. create a simple class
+
+public class HelloWorld 
+{
+
+    public String sayHelloWorld(String name)
+    {
+        return "Hello world from "+ name;
+    }
+}  
+
+d. Select project - new - web service
+
+e. select service type - Bottom up java code
+   service implementation as the the package and class name
+
+f. New project is created
+
+g. start server  
